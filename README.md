@@ -1,4 +1,6 @@
 # _Swiggy-Data-Analysis_
+![swiggy](https://github.com/yasmeenustad/Swiggy-data-Analysis/assets/112754746/bb2fe548-dabf-4dd8-bea6-a19ef1b9adc1)
+
 (Group Project with Four(4) members exicuted in Seven(7) days.
 
 ## Why this Project?
