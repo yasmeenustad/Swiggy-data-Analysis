@@ -15,7 +15,7 @@ We have observed a trend towards remote kitchens in recent times, and as a data 
 ## Dashboard:
 ![Screenshot_20230607_032720](https://github.com/yasmeenustad/Swiggy-data-Analysis/assets/112754746/2806b894-8546-493a-9760-06772aa63913)
 ![Screenshot_20230607_032734](https://github.com/yasmeenustad/Swiggy-data-Analysis/assets/112754746/0e957bbc-b191-4e5d-acfa-57840b5f6bd4)
-
+![Screenshot_20230607_032040](https://github.com/yasmeenustad/Swiggy-data-Analysis/assets/112754746/2db3d7f9-af35-4392-bf6e-8bf547d2a225)
 
 ## Learnings:
 1. Web Scrapping 
