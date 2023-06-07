@@ -10,6 +10,9 @@ We have observed a trend towards remote kitchens in recent times, and as a data 
 3. Data Cleaning (Using Python Libraries Pandas and Numpy, and Excel 
 4. Created Meaningful Insights, and Dashbord
 
+## Dashboard:
+
+
 ## Learnings:
 1. Web Scrapping 
 2. New Python Libraries (Beautiful Soup and Selenium) 
