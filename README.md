@@ -13,6 +13,7 @@ We have observed a trend towards remote kitchens in recent times, and as a data 
 4. Created Meaningful Insights, and Dashbord
 
 ## Dashboard:
+![Screenshot_20230607_032720](https://github.com/yasmeenustad/Swiggy-data-Analysis/assets/112754746/2806b894-8546-493a-9760-06772aa63913)
 
 
 ## Learnings:
