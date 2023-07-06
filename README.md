@@ -9,8 +9,8 @@ We have observed a trend towards remote kitchens in recent times, and as a data 
 ## Objectives:
 1. Scraped the data from Swiggy Main website
 2. Data Analysing
-3. Data Cleaning (Using Python Libraries Pandas and Numpy, and Excel 
-4. Created Meaningful Insights, and Dashbord
+3. Data Cleaning (Using Python Libraries Pandas and Numpy, and Excel) 
+4. Created Meaningful Insights, and Dashbord.
 
 ## Dashboard:
 ![Screenshot_20230607_032720](https://github.com/yasmeenustad/Swiggy-data-Analysis/assets/112754746/2806b894-8546-493a-9760-06772aa63913)
@@ -19,7 +19,7 @@ We have observed a trend towards remote kitchens in recent times, and as a data 
 
 ## Learnings:
 1. Web Scrapping 
-2. New Python Libraries (Beautiful Soup and Selenium) 
+2. New Python Libraries (BeautifulSoup and Selenium) 
 3. Time and Team Management
 
 
