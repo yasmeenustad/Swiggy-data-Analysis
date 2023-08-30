@@ -69,12 +69,28 @@ We have observed a trend towards remote kitchens in recent times, and as a data 
 ![Screenshot_20230607_032734](https://github.com/yasmeenustad/Swiggy-data-Analysis/assets/112754746/0e957bbc-b191-4e5d-acfa-57840b5f6bd4)
 ![Screenshot_20230607_032040](https://github.com/yasmeenustad/Swiggy-data-Analysis/assets/112754746/2db3d7f9-af35-4392-bf6e-8bf547d2a225)
 
-<img src="https://github.com/yasmeenustad/Swiggy-data-Analysis/assets/112754746/64068792-7b4b-488e-bb70-e03c6a140f67" width="100" height="50" >
+## <img src="https://github.com/yasmeenustad/Swiggy-data-Analysis/assets/112754746/1334f205-b4ce-4125-b71f-a38637dec197" width="70" height="50" >Conlusions:
+
+- **Observing Localities:**
+    - Indiranagar, Koramangala, and BTM Layout are densely populated areas.
+    - Few highly-rated restaurants with impressive delivery reviews and limited ratings exist in these localities.
+      
+- **Promising Approach:**
+    - The concept of a remote kitchen emerges as a promising solution.
+    - Remote kitchens can leverage the positive delivery review ratings and address the shortage of dining options in these areas.
+      
+- **New Restaurant Prospects:**
+    - A clear opportunity arises for establishing new restaurants.
+    - Leveraging remote kitchens could be a strategic approach to cater to the underserved demand.
+      
+- **Quality Emphasis:**
+    - To succeed in opening remote kitchens, a strong emphasis on food quality is crucial.
+    - Providing high-quality meals that match customer expectations is a cornerstone of success.
 
 ## Learnings:
-1. Web Scraping 
-2. New Python Libraries (BeautifulSoup and Selenium) 
-3. Time and Team Management
+    1. Web Scraping 
+    2. New Python Libraries (BeautifulSoup and Selenium) 
+    3. Time and Team Management
 
 
 
