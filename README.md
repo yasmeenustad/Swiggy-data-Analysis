@@ -4,7 +4,7 @@ This repository contains a capstone group project. Skillfully extracted data fro
 
 
 <div id="header" align="center">
-    <img src="https://github.com/yasmeenustad/Swiggy-data-Analysis/assets/112754746/05bac31e-b6ac-462e-9744-4fd1e09b2225"  height="400" width="800"/>
+    <img src="https://github.com/yasmeenustad/Swiggy-data-Analysis/assets/112754746/05bac31e-b6ac-462e-9744-4fd1e09b2225"  height="350" width="800"/>
 </div>
 
 ## Aim of the Project:
