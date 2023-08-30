@@ -87,10 +87,15 @@ We have observed a trend towards remote kitchens in recent times, and as a data 
     - To succeed in opening remote kitchens, a strong emphasis on food quality is crucial.
     - Providing high-quality meals that match customer expectations is a cornerstone of success.
 
-## Learnings:
-    1. Web Scraping 
-    2. New Python Libraries (BeautifulSoup and Selenium) 
-    3. Time and Team Management
+## <img src="https://github.com/yasmeenustad/Swiggy-data-Analysis/assets/112754746/2e256cec-1421-4c5f-9913-052a53dc470f" width="70" height="50"> Learnings:
+- **Web Scraping:**
+    - Web scraping is the process of automatically extracting data from websites. Web scraping allows you to retrieve data, such as text, images, links, and other content, from websites and save it in a structured 
+      format, such as a database or spreadsheet.
+
+- **Python Libraries: (BeautifulSoup and Selenium)**
+    - Beautiful Soup is a Python library used for web scraping tasks. Beautiful Soup is commonly used for extracting information from static web pages where the content is embedded directly in the HTML. It's particularly       useful for projects that require parsing and extracting data from web pages that are not heavily reliant on JavaScript for content rendering.
+    - Selenium is used for automating browser interactions, making it suitable for scraping dynamically loaded or JavaScript-heavy websites. 
+
 
 
 
