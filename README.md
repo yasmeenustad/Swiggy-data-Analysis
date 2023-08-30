@@ -7,7 +7,7 @@ This repository contains a capstone group project, an extracted data from Swiggy
     <img src="https://github.com/yasmeenustad/Swiggy-data-Analysis/assets/112754746/05bac31e-b6ac-462e-9744-4fd1e09b2225"  height="350" width="800"/>
 </div>
 
-## Aim of the Project:
+##  <img src="https://github.com/yasmeenustad/Placements-Data-Analysis-Excel-Project/assets/112754746/030e1f21-e04f-4cbd-b301-3576c8c1acc3"  width="48" height="48"> Aim:
 We have observed a trend towards remote kitchens in recent times, and as a data analyst, our task is to identify the best location to start a remote kitchen or a restaurant in Bangaluru based on the demand for different types of cuisines in the area.![image](https://github.com/yasmeenustad/Swiggy-data-Analysis/assets/112754746/f58be107-5ba1-4620-b148-900acbe885bb)
 
 ##  <img src="https://github.com/yasmeenustad/Placements-Data-Analysis-Excel-Project/assets/112754746/057551de-877a-4a41-916c-d47e81053404"  width="48" height="48"> Objectives:
