@@ -10,7 +10,7 @@ This repository contains a capstone group project, an extracted data from Swiggy
 ## Aim of the Project:
 We have observed a trend towards remote kitchens in recent times, and as a data analyst, our task is to identify the best location to start a remote kitchen or a restaurant in Bangaluru based on the demand for different types of cuisines in the area.![image](https://github.com/yasmeenustad/Swiggy-data-Analysis/assets/112754746/f58be107-5ba1-4620-b148-900acbe885bb)
 
-## Objectives:
+##  <img src="https://github.com/yasmeenustad/Placements-Data-Analysis-Excel-Project/assets/112754746/057551de-877a-4a41-916c-d47e81053404"  width="48" height="48"> Objectives:
 - **Web Scraping:**
     - We utilized Python libraries such as BeautifulSoup and Selenium to proficiently extract data from the Swiggy website. The scraped data encompassed crucial elements including Restaurant Names, Locations, Two-Person         Prices, Cuisines, Ratings, Delivery Review Numbers, and URLs of the restaurants.
 
