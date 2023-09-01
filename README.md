@@ -1,4 +1,4 @@
-# _Swiggy-Data-Analysis_
+# **Swiggy Data Analysis**
 
 This repository contains a capstone group project, an extracted data from Swiggy's website, including Restaurant Names, Prices, Locations, Cuisines, and URLs. Through adept data cleaning and visualization, gleaned valuable insights that provide a deeper understanding.
 
