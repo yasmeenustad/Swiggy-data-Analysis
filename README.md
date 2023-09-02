@@ -66,7 +66,7 @@ We have observed a trend towards remote kitchens in recent times, and as a data 
 
 ## Dashboard:
 <div id="header" align="center">
-    <img src="https://github.com/yasmeenustad/Housing_Habitability-Prediction-ML-Project/assets/112754746/39cb359c-de2e-4c73-8436-058e6970f578"  height="350" width="800"/>
+    <img src="https://github.com/yasmeenustad/Swiggy-data-Analysis/assets/112754746/4839a268-0f4f-47cd-ba62-e3f9449a7661"  height="450" width="900"/>
 </div>
 
 
