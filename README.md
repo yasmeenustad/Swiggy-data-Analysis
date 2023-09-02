@@ -65,9 +65,10 @@ We have observed a trend towards remote kitchens in recent times, and as a data 
 
 
 ## Dashboard:
-![Screenshot_20230607_032720](https://github.com/yasmeenustad/Swiggy-data-Analysis/assets/112754746/2806b894-8546-493a-9760-06772aa63913)
-![Screenshot_20230607_032734](https://github.com/yasmeenustad/Swiggy-data-Analysis/assets/112754746/0e957bbc-b191-4e5d-acfa-57840b5f6bd4)
-![Screenshot_20230607_032040](https://github.com/yasmeenustad/Swiggy-data-Analysis/assets/112754746/2db3d7f9-af35-4392-bf6e-8bf547d2a225)
+<div id="header" align="center">
+    <img src="https://github.com/yasmeenustad/Housing_Habitability-Prediction-ML-Project/assets/112754746/39cb359c-de2e-4c73-8436-058e6970f578"  height="350" width="800"/>
+</div>
+
 
 ## <img src="https://github.com/yasmeenustad/Swiggy-data-Analysis/assets/112754746/1334f205-b4ce-4125-b71f-a38637dec197" width="70" height="50" >Conlusions:
 
