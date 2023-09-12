@@ -28,7 +28,6 @@ We have observed a trend towards remote kitchens in recent times, and as a data 
 
 ##  <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> Insights:
    
-    
 - **Restaurant Distribution in Indiranagar:**
     - Indiranagar stands out with the highest number of restaurants, making up 24% of all locations in Bangalore. This concentration might indicate a high demand for dining options in this area.
  
@@ -60,8 +59,9 @@ We have observed a trend towards remote kitchens in recent times, and as a data 
         2. Desserts
         3. Continental
     - This indicates a strong consumer preference for a diverse range of culinary experiences.
+
 <div id="header" align="center">
-    <img src="https://github.com/yasmeenustad/Swiggy-data-Analysis/assets/112754746/0261baf8-a173-4c8d-ba61-85a8b1f6cde1"  height="300" width="700"/>
+    <img src="https://github.com/yasmeenustad/Swiggy-data-Analysis/assets/112754746/2f284b70-ba83-455a-b6a9-8d725da9c883"  height="300" width="700"/>
 </div>
 
 - Highest-Rated Location - Shanti Nagar:
