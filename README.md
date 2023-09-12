@@ -88,8 +88,8 @@ We have observed a trend towards remote kitchens in recent times, and as a data 
     - To succeed in opening remote kitchens, a strong emphasis on food quality is crucial.
     - Providing high-quality meals that match customer expectations is a cornerstone of success.
       
+## <img src="https://github.com/yasmeenustad/Swiggy-data-Analysis/assets/112754746/b1e7851f-7be9-4aa6-a1a9-3d98c18a8e90" width="70" height="50"> Challenges:
 
- ## Challenges:
 - **Challenging Web Scraping:**
     - Scraping Swiggy data proved to be a challenging task primarily due to the dynamic nature of the website.
 
