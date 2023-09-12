@@ -33,17 +33,26 @@ We have observed a trend towards remote kitchens in recent times, and as a data 
     - Indiranagar stands out with the highest number of restaurants, making up 24% of all locations in Bangalore. This concentration might indicate a high demand for dining options in this area.
  
 <div id="header" align="center">
-    <img src="https://github.com/yasmeenustad/Swiggy-data-Analysis/assets/112754746/535fece8-14b0-4f30-9cee-529442c6036e"  height="400" width="700"/>
+    <img src="https://github.com/yasmeenustad/Swiggy-data-Analysis/assets/112754746/535fece8-14b0-4f30-9cee-529442c6036e"  height="300" width="700"/>
 </div>
 
 - **Expensive Restaurant - Burger Seigneur:**
     - Burger Seigneur is a notable restaurant known for its expensive offerings in terms of both cuisine and price. This suggests that it might target a more upscale customer base.
+ <div id="header" align="center">
+    <img src="https://github.com/yasmeenustad/Swiggy-data-Analysis/assets/112754746/dedcfddb-1bed-4bb6-a8e2-375aa7cdc842"  height="300" width="700"/>
+</div>
 
 - **High-Delivery Review Restaurants:**
     - The top three locations with restaurants having delivery review numbers greater than 1000 are Indiranagar (68), BTM Layout (61), and Koramangala (47). This implies that these areas have a substantial demand for food delivery services.
+<div id="header" align="center">
+    <img src="https://github.com/yasmeenustad/Swiggy-data-Analysis/assets/112754746/26bc739c-b7ed-4805-80eb-39bd3018df33"  height="300" width="700"/>
+</div>
 
 - **Low-Rated Restaurants in Indiranagar:**
     - Despite having the maximum number of restaurants, Indiranagar also has the highest number of less-rated restaurants. This could be due to the intense competition in the area, pushing some restaurants to struggle with maintaining quality.
+<div id="header" align="center">
+    <img src="https://github.com/yasmeenustad/Swiggy-data-Analysis/assets/112754746/5997c0b6-116c-4595-8dd2-8f9d708fe98f"  height="300" width="700"/>
+</div>
 
 - **Popular Cuisines:**
     - Top three cuisines by the number of restaurants:
@@ -51,10 +60,16 @@ We have observed a trend towards remote kitchens in recent times, and as a data 
         2. Desserts
         3. Continental
     - This indicates a strong consumer preference for a diverse range of culinary experiences.
+<div id="header" align="center">
+    <img src="https://github.com/yasmeenustad/Swiggy-data-Analysis/assets/112754746/0261baf8-a173-4c8d-ba61-85a8b1f6cde1"  height="300" width="700"/>
+</div>
 
 - Highest-Rated Location - Shanti Nagar:
     - Shanti Nagar stands out with the highest rating of 4.8 and the top delivery numbers among all the locations.
     - Indicates positive customer experiences in terms of both food quality and delivery service.
+<div id="header" align="center">
+    <img src="https://github.com/yasmeenustad/Swiggy-data-Analysis/assets/112754746/002eb60c-f439-47b3-bbc2-5483977bfab0"  height="300" width="700"/>
+</div>
     
 - **Top Cuisines by Ratings and Prices:**
     - The top five cuisines based on average ratings and average prices are:
@@ -66,7 +81,6 @@ We have observed a trend towards remote kitchens in recent times, and as a data 
         | 4    | Portuguese    | 4.2     | 175           |
         | 5    | Seafood       | 4.1     | 150           |
     - These cuisines offer a balanced combination of quality and pricing, making them attractive choices for customers seeking value.
-
 
 ## Dashboard:
 <div id="header" align="center">
