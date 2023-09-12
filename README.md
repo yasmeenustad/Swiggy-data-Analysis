@@ -27,17 +27,16 @@ We have observed a trend towards remote kitchens in recent times, and as a data 
       comprehensive visualization of our findings.
 
 ##  <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> Insights:
-   
+
 - **Restaurant Distribution in Indiranagar:**
     - Indiranagar stands out with the highest number of restaurants, making up 24% of all locations in Bangalore. This concentration might indicate a high demand for dining options in this area.
- 
-<div id="header" align="center">
+ <div id="header" align="center">
     <img src="https://github.com/yasmeenustad/Swiggy-data-Analysis/assets/112754746/535fece8-14b0-4f30-9cee-529442c6036e"  height="300" width="700"/>
 </div>
 
 - **Expensive Restaurant - Burger Seigneur:**
     - Burger Seigneur is a notable restaurant known for its expensive offerings in terms of both cuisine and price. This suggests that it might target a more upscale customer base.
- <div id="header" align="center">
+<div id="header" align="center">
     <img src="https://github.com/yasmeenustad/Swiggy-data-Analysis/assets/112754746/dedcfddb-1bed-4bb6-a8e2-375aa7cdc842"  height="300" width="700"/>
 </div>
 
@@ -59,10 +58,10 @@ We have observed a trend towards remote kitchens in recent times, and as a data 
         2. Desserts
         3. Continental
     - This indicates a strong consumer preference for a diverse range of culinary experiences.
-
 <div id="header" align="center">
     <img src="https://github.com/yasmeenustad/Swiggy-data-Analysis/assets/112754746/2f284b70-ba83-455a-b6a9-8d725da9c883"  height="300" width="700"/>
-</div>
+</div>     
+
 
 - Highest-Rated Location - Shanti Nagar:
     - Shanti Nagar stands out with the highest rating of 4.8 and the top delivery numbers among all the locations.
