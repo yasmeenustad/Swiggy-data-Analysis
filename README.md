@@ -31,6 +31,10 @@ We have observed a trend towards remote kitchens in recent times, and as a data 
     
 - **Restaurant Distribution in Indiranagar:**
     - Indiranagar stands out with the highest number of restaurants, making up 24% of all locations in Bangalore. This concentration might indicate a high demand for dining options in this area.
+ 
+<div id="header" align="center">
+    <img src="https://github.com/yasmeenustad/Swiggy-data-Analysis/assets/112754746/535fece8-14b0-4f30-9cee-529442c6036e"  height="400" width="700"/>
+</div>
 
 - **Expensive Restaurant - Burger Seigneur:**
     - Burger Seigneur is a notable restaurant known for its expensive offerings in terms of both cuisine and price. This suggests that it might target a more upscale customer base.
