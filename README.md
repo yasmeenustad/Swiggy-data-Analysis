@@ -87,6 +87,19 @@ We have observed a trend towards remote kitchens in recent times, and as a data 
 - **Quality Emphasis:**
     - To succeed in opening remote kitchens, a strong emphasis on food quality is crucial.
     - Providing high-quality meals that match customer expectations is a cornerstone of success.
+      
+
+ ## Challenges:
+- **Challenging Web Scraping:**
+    - Scraping Swiggy data proved to be a challenging task primarily due to the dynamic nature of the website.
+
+- **Complex HTML Structure:** 
+    - The website's HTML structure was intricate and complex, adding an extra layer of difficulty to the scraping process.
+
+- **Efficient Time Management:**
+    - Managing time efficiently was essential to tackle the challenges effectively.
+
+
 
 ## <img src="https://github.com/yasmeenustad/Swiggy-data-Analysis/assets/112754746/2e256cec-1421-4c5f-9913-052a53dc470f" width="70" height="50"> Learnings:
 - **Web Scraping:**
