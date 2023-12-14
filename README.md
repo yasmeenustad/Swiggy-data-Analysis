@@ -83,7 +83,7 @@ We have observed a trend towards remote kitchens in recent times, and as a data 
 
 ## Dashboard:
 <div id="header" align="center">
-    <img src="https://github.com/yasmeenustad/Swiggy-data-Analysis/assets/112754746/4916dc0b-e267-41d1-ba0a-d570cdd0c73a"  height="500" width="900"/>
+    <img src="https://github.com/yasmeenustad/Swiggy-data-Analysis/assets/112754746/1d362a9e-9952-44ef-baf7-ff6516a0c8bf"  height="500" width="900"/>
 </div>
 
 ## <img src="https://github.com/yasmeenustad/Swiggy-data-Analysis/assets/112754746/1334f205-b4ce-4125-b71f-a38637dec197" width="70" height="50" >Conlusions:
