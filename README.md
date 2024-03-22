@@ -71,6 +71,11 @@ We have observed a trend towards remote kitchens in recent times, and as a data 
 </div>
     
 - **Top Cuisines by Ratings and Prices:**
+  
+<div id="header" align="center">
+    <img src="https://github.com/yasmeenustad/Swiggy-data-Analysis/assets/112754746/321950e5-43a1-455d-b615-2130840066ec)"  height="300" width="600"/>
+</div>
+
     - The top five cuisines based on average ratings and average prices are:
         | Rank | Cuisine       | Ratings | Average Price |
         |------|---------------|---------|---------------|
